@@ -1,0 +1,61 @@
+,Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday
+Nurse 1,ICU-V (Morning),ICU-NV (Night),,ICU-NV (Morning),ICU-NV (Morning),,ICU-V (Morning)
+Nurse 2,ICU-NV (Night),,ICU-NV (Morning),ICU-NV (Night),ICU-V (Night),ICU-NV (Morning),General (Morning)
+Nurse 3,ICU-NV (Morning),ICU-V (Evening),ICU-V (Night),ICU-V (Evening),ICU-V (Evening),ICU-NV (Night),
+Nurse 4,,General (Morning),,,ICU-NV (Morning),ICU-NV (Evening),ICU-NV (Morning)
+Nurse 5,ICU-V (Evening),ICU-V (Night),General (Morning),ICU-V (Morning),,,General (Morning)
+Nurse 6,ICU-NV (Night),,General (Morning),,ICU-NV (Night),,ICU-V (Evening)
+Nurse 7,General (Morning),,,,ICU-V (Evening),,ICU-NV (Evening)
+Nurse 8,ICU-V (Night),,General (Morning),ICU-V (Morning),ICU-NV (Night),,ICU-V (Evening)
+Nurse 9,ICU-V (Night),ICU-V (Morning),General (Morning),,,,General (Morning)
+Nurse 10,General (Morning),,,,General (Morning),,ICU-NV (Evening)
+Nurse 11,ICU-V (Night),ICU-V (Evening),General (Morning),ICU-NV (Night),ICU-NV (Evening),ICU-V (Night),
+Nurse 12,General (Morning),ICU-NV (Evening),ICU-NV (Evening),ICU-V (Morning),General (Morning),ICU-V (Night),
+Nurse 13,ICU-NV (Night),,ICU-NV (Night),ICU-NV (Morning),General (Morning),ICU-NV (Morning),ICU-V (Morning)
+Nurse 14,ICU-V (Evening),ICU-NV (Morning),ICU-V (Evening),General (Morning),ICU-V (Night),,
+Nurse 15,,General (Morning),ICU-V (Night),,,ICU-V (Evening),
+Nurse 16,,ICU-V (Night),,General (Morning),,ICU-NV (Night),
+Nurse 17,ICU-V (Morning),ICU-NV (Evening),General (Morning),ICU-NV (Morning),General (Morning),,ICU-V (Night)
+Nurse 18,ICU-NV (Evening),ICU-V (Night),,ICU-NV (Evening),ICU-NV (Night),,
+Nurse 19,ICU-V (Morning),ICU-V (Morning),,ICU-V (Night),General (Morning),ICU-V (Evening),General (Morning)
+Nurse 20,,,,,General (Morning),ICU-NV (Night),General (Morning)
+Nurse 21,,General (Morning),ICU-NV (Evening),ICU-V (Night),,General (Morning),ICU-NV (Morning)
+Nurse 22,General (Morning),ICU-NV (Night),General (Morning),ICU-NV (Morning),,,
+Nurse 23,ICU-V (Morning),,,General (Morning),ICU-NV (Evening),ICU-V (Evening),ICU-NV (Morning)
+Nurse 24,ICU-V (Evening),ICU-V (Night),General (Morning),ICU-NV (Evening),,ICU-NV (Evening),
+Nurse 25,ICU-NV (Morning),ICU-V (Morning),ICU-NV (Morning),ICU-V (Night),,ICU-V (Night),General (Morning)
+Nurse 26,,ICU-NV (Night),ICU-NV (Morning),,General (Morning),,ICU-NV (Night)
+Nurse 27,ICU-NV (Evening),,,ICU-NV (Night),ICU-V (Evening),ICU-NV (Evening),
+Nurse 28,General (Morning),,ICU-NV (Morning),ICU-NV (Night),ICU-NV (Night),ICU-NV (Evening),ICU-V (Night)
+Nurse 29,,ICU-NV (Evening),ICU-V (Morning),General (Morning),ICU-V (Morning),ICU-V (Night),General (Morning)
+Nurse 30,,,ICU-V (Evening),ICU-V (Evening),,ICU-NV (Morning),
+Nurse 31,ICU-V (Night),General (Morning),ICU-V (Evening),,ICU-V (Morning),,ICU-NV (Evening)
+Nurse 32,ICU-V (Evening),ICU-NV (Morning),,ICU-V (Evening),,General (Morning),ICU-V (Morning)
+Nurse 33,ICU-NV (Morning),,,ICU-V (Night),,ICU-NV (Morning),
+Nurse 34,General (Morning),ICU-NV (Evening),,,ICU-V (Night),,
+Nurse 35,,,,,ICU-NV (Morning),ICU-V (Morning),ICU-NV (Evening)
+Nurse 36,,ICU-V (Morning),ICU-NV (Evening),General (Morning),,,ICU-V (Evening)
+Nurse 37,General (Morning),,ICU-NV (Evening),ICU-V (Morning),,ICU-V (Morning),ICU-V (Evening)
+Nurse 38,,ICU-V (Evening),General (Morning),ICU-V (Evening),General (Morning),ICU-NV (Morning),General (Morning)
+Nurse 39,ICU-NV (Evening),,ICU-V (Evening),ICU-V (Evening),ICU-NV (Evening),General (Morning),ICU-NV (Night)
+Nurse 40,,ICU-V (Evening),ICU-NV (Morning),General (Morning),General (Morning),ICU-V (Morning),ICU-NV (Night)
+Nurse 41,,,ICU-V (Morning),ICU-NV (Evening),,ICU-V (Evening),ICU-V (Night)
+Nurse 42,General (Morning),,ICU-V (Morning),,General (Morning),,ICU-NV (Night)
+Nurse 43,ICU-V (Morning),ICU-NV (Evening),ICU-V (Night),ICU-NV (Evening),,,ICU-V (Morning)
+Nurse 44,ICU-NV (Evening),,ICU-NV (Night),,ICU-V (Evening),,
+Nurse 45,,ICU-V (Evening),ICU-NV (Night),General (Morning),General (Morning),ICU-V (Morning),General (Morning)
+Nurse 46,ICU-NV (Night),ICU-NV (Morning),,,,,ICU-V (Night)
+Nurse 47,ICU-NV (Morning),ICU-NV (Morning),General (Morning),ICU-V (Night),ICU-V (Morning),,ICU-NV (Morning)
+Nurse 48,,,,,ICU-V (Evening),ICU-NV (Night),ICU-V (Night)
+Nurse 49,,,,ICU-V (Morning),ICU-V (Morning),,General (Morning)
+Nurse 50,ICU-NV (Morning),,ICU-V (Night),ICU-NV (Morning),,ICU-V (Evening),General (Morning)
+Nurse 51,ICU-V (Night),,,,ICU-NV (Evening),ICU-NV (Night),
+Nurse 52,,,ICU-V (Night),,ICU-NV (Evening),,ICU-NV (Morning)
+Nurse 53,ICU-NV (Evening),ICU-V (Night),ICU-V (Morning),General (Morning),ICU-NV (Morning),,ICU-V (Evening)
+Nurse 54,,ICU-V (Morning),ICU-V (Evening),ICU-NV (Night),ICU-V (Night),ICU-NV (Evening),General (Morning)
+Nurse 55,ICU-V (Evening),,ICU-NV (Evening),,ICU-V (Night),General (Morning),ICU-V (Morning)
+Nurse 56,,,ICU-NV (Night),,ICU-NV (Morning),ICU-V (Night),
+Nurse 57,,ICU-NV (Night),ICU-NV (Night),,General (Morning),General (Morning),ICU-NV (Evening)
+Nurse 58,General (Morning),ICU-NV (Night),,,ICU-V (Morning),,
+Nurse 59,General (Morning),,,ICU-NV (Evening),ICU-NV (Night),,
+Nurse 60,ICU-NV (Night),ICU-NV (Morning),ICU-V (Morning),General (Morning),,ICU-V (Morning),ICU-NV (Night)
