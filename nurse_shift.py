@@ -2,6 +2,7 @@ import pandas as pd
 import numpy as np
 import random
 import matplotlib.pyplot as plt
+from IPython.display import display
 
 # Parameters
 nurses = 60
@@ -46,6 +47,7 @@ for day in days:
                 if allocated < lf and roster[day][nurse] == "":
                     roster[day][nurse] = f"{dept} ({shift})"
                     allocated += 1
+display(roster_df)
 
 # Convert Roster to DataFrame and Save
 roster_df = pd.DataFrame(roster)
